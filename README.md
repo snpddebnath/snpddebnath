@@ -66,6 +66,8 @@ I specialize in building AI-powered web applications, designing intuitive user e
 
 ## ⚡ Tech Stack
 
+<div align="center">
+
 ### Languages and Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -95,11 +97,17 @@ I specialize in building AI-powered web applications, designing intuitive user e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 [![Debanjan's GitHub contribution streak](https://streak-stats.demolab.com?user=snpddebnath&hide_border=true)](https://github.com/snpddebnath)
+
+</div>
 
 ---
 
