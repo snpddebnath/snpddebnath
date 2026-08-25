@@ -1,6 +1,6 @@
-# Hi, I'm Debanjan Debnath 👋
+<h1 align="center">Hi, I'm Debanjan Debnath 👋</h1>
 
-### Technical Support Engineer | Generative AI Developer | Figma Designer
+<h3 align="center">Technical Support Engineer | Generative AI Developer | Figma Designer</h3>
 
 I specialize in building AI-powered web applications, designing intuitive user experiences, and solving complex technical challenges. My work sits at the intersection of engineering, customer-centric problem solving, and product innovation.
 
@@ -8,105 +8,93 @@ I specialize in building AI-powered web applications, designing intuitive user e
 
 ## 🚀 About Me
 
-💼 Technical Support Engineer
-
-🤖 Backend Developer for Generative AI Applications
-
-🎨 UI/UX Mockup Designer in Figma
-
-☁️ Passionate about AI, Cloud Technologies, and Modern Web Applications
-
-🔧 Experienced in troubleshooting, debugging, and delivering enterprise-grade solutions
-
-📈 Focused on turning ideas into scalable and user-friendly products
+- 💼 Technical Support Engineer
+- 🤖 Backend Developer for Generative AI Applications
+- 🎨 UI/UX Mockup Designer in Figma
+- ☁️ Passionate about AI, cloud technologies, and modern web applications
+- 🔧 Experienced in troubleshooting, debugging, and delivering enterprise-grade solutions
+- 📈 Focused on turning ideas into scalable and user-friendly products
 
 ---
 
 ## 🧠 What I Do
 
 ### 🤖 AI Engineering
-- Generative AI Applications
-- LLM Integrations
+
+- Generative AI applications
+- LLM integrations
 - RAG (Retrieval-Augmented Generation)
-- Prompt Engineering
-- AI-Powered Enterprise Solutions
+- Prompt engineering
+- AI-powered enterprise solutions
 
 ### 💻 Backend Development
+
 - Python
 - REST APIs
 - FastAPI
 - Flask
-- Authentication & Authorization
-- Database Integration
-- Azure Services
+- Authentication and authorization
+- Database integration
+- Azure services
 
 ### 🎨 Product Design
-- Figma Wireframes
-- UI/UX Prototyping
-- Design Systems
-- User-Centered Design
-- SaaS Dashboard Design
-- AI Application Mockups
+
+- Figma wireframes
+- UI/UX prototyping
+- Design systems
+- User-centered design
+- SaaS dashboard design
+- AI application mockups
 
 ### 🛠 Technical Support
-- Root Cause Analysis
-- Issue Investigation
-- Customer Escalation Management
-- Product Troubleshooting
-- Enterprise Support Engineering
+
+- Root cause analysis
+- Issue investigation
+- Customer escalation management
+- Product troubleshooting
+- Enterprise support engineering
 
 ---
 
 ## ⚡ Tech Stack
 
-### Languages & Frameworks
+### Languages and Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-e=for-the-badge&logo=FastAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000r-the-b=flask
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### AI & Cloud
+### AI and Cloud
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000or-the-badge&logo=githubcop![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logogoColor=white
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Dev Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHubstyle=for-the-badge&logo=github&logoColor=white)
-
-Featured Interests
-
-- Agentic AI
-- AI-Powered SaaS Platforms
-- Enterprise Applications
-- Customer Experience Engineering
-- Product Design & Prototyping
-- Cloud Architecture
-- Developer Productivity
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Interests
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snpddebnath&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats=snpddebnath&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel/?username=snpddebnath&layoutkyonight
+- Agentic AI
+- AI-powered SaaS platforms
+- Enterprise applications
+- Customer experience engineering
+- Product design and prototyping
+- Cloud architecture
+- Developer productivity
 
 ---
 
 ## 📌 Currently Building
 
-🚀 Generative AI-powered Web Applications
-
-🎨 Modern Enterprise Product Mockups in Figma
-
-⚡ AI-driven Customer Success Experiences
-
-🧩 Backend Services for Intelligent Applications
+- 🚀 Generative AI-powered web applications
+- 🎨 Modern enterprise product mockups in Figma
+- ⚡ AI-driven customer success experiences
+- 🧩 Backend services for intelligent applications
 
 ---
 
@@ -119,8 +107,6 @@ Featured Interests
 ## 🤝 Let's Connect
 
 - LinkedIn: [Debanjan Debnath](https://www.linkedin.com/in/debanjan-debnath-a6231b192/)
-- GitHub: @snpddebnath
-
----
+- GitHub: [@snpddebnath](https://github.com/snpddebnath)
 
 ⭐ If you like my work, feel free to explore my repositories and connect with me.
